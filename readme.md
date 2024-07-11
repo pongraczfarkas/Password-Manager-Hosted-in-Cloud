@@ -5,14 +5,14 @@ This guide explains how I set up a self-hosted password manager environment usin
 
 ## Environments used
 
-    Oracle VM VirtualBox
-    Ubuntu 24.04
-    AWS EC2
+- Oracle VM VirtualBox
+- Ubuntu 24.04
+- AWS EC2
 
 ## Links
 
-    Passbolt: [Deploy Passbolt to AWS](https://www.passbolt.com/ce/aws)
-    Oracle VM VirtualBox: [Download](https://www.virtualbox.org/wiki/Downloads)
-    Ubuntu: [Download](https://ubuntu.com/download/desktop)
+- Passbolt: [Deploy Passbolt to AWS](https://www.passbolt.com/ce/aws)
+- Oracle VM VirtualBox: [Download](https://www.virtualbox.org/wiki/Downloads)
+- Ubuntu: [Download](https://ubuntu.com/download/desktop)
 
 ## Walkthrough
